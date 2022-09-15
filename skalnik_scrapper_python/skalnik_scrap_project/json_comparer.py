@@ -1,6 +1,3 @@
-from importlib.resources import path
-import glob
-from itertools import product
 import os, glob
 
 def comparer():
