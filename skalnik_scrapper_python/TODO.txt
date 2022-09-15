@@ -1,4 +1,4 @@
-create json_comparer.py - script to compare two last json files and list new products/promos 
-create bot to run spider and json_comparer daily 
+create json_comparer.py - script to compare two last json files and list new products/promos ==> done, modify to better represent changed data
+create bot to run spider and json_comparer daily - save jsons in json_store dir
 connect bot with Telegram Api - send info about new products/promos as message 
 add new spiders for desired categories: karabinki, liny, produkt dnia 
