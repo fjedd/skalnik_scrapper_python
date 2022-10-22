@@ -1,0 +1,2 @@
+connection with NoSQL db for statistics
+visual rework 

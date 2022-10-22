@@ -1,0 +1,5 @@
+create json_comparer.py - script to compare two last json files and list new products/promos ==> done, modify to better represent changed data
+connect bot with Telegram Api - send info about new products/promos as message:
+- sending on command /go - automate it
+- not allowing too long messages - fix with better data display
+add new spiders for desired categories: karabinki, liny, produkt dnia <!>
